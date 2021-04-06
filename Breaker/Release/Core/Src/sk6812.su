@@ -1,0 +1,7 @@
+sk6812.c:30:6:led_set_RGB	12	static
+sk6812.c:44:6:led_set_RGBW	0	static
+sk6812.c:52:6:led_set_all_RGB	24	static
+sk6812.c:57:6:led_set_all_RGBW	24	static
+sk6812.c:62:6:led_render	24	static
+sk6812.c:97:6:HAL_TIM_PWM_PulseFinishedHalfCpltCallback	20	static
+sk6812.c:125:6:HAL_TIM_PWM_PulseFinishedCallback	16	static
